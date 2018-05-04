@@ -1,0 +1,4 @@
+[error] C:\Users\miniproject3-pammi82\src\main\scala\Main.scala:156:43: value getAs is not a member of org.apache.spark.sql.Column
+[error]       .select(col("source"),col("window").getAs[String]("start").alias("start_timestamp") )
+[error]                                           ^
+[error] one error found

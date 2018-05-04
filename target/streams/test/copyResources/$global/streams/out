@@ -1,0 +1,7 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\miniproject3-pammi82\src\test\resources\BeijingPM20100101_20151231.csv,C:\Users\miniproject3-pammi82\target\scala-2.11\test-classes\BeijingPM20100101_20151231.csv)
+[debug] 	(C:\Users\miniproject3-pammi82\src\test\resources\ChengduPM20100101_20151231.csv,C:\Users\miniproject3-pammi82\target\scala-2.11\test-classes\ChengduPM20100101_20151231.csv)
+[debug] 	(C:\Users\miniproject3-pammi82\src\test\resources\GuangzhouPM20100101_20151231.csv,C:\Users\miniproject3-pammi82\target\scala-2.11\test-classes\GuangzhouPM20100101_20151231.csv)
+[debug] 	(C:\Users\miniproject3-pammi82\src\test\resources\log4j.properties,C:\Users\miniproject3-pammi82\target\scala-2.11\test-classes\log4j.properties)
+[debug] 	(C:\Users\miniproject3-pammi82\src\test\resources\ShanghaiPM20100101_20151231.csv,C:\Users\miniproject3-pammi82\target\scala-2.11\test-classes\ShanghaiPM20100101_20151231.csv)
+[debug] 	(C:\Users\miniproject3-pammi82\src\test\resources\ShenyangPM20100101_20151231.csv,C:\Users\miniproject3-pammi82\target\scala-2.11\test-classes\ShenyangPM20100101_20151231.csv)

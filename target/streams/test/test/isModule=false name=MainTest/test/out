@@ -1,0 +1,14 @@
+[info] MainTest:
+[info] Main
+[info] ingestKafkaTopic
+[info] - must generate the correct schema
+[info] ingestKafkaTopic
+[info] - must ingest values from kafka
+[info] extractValues
+[info] - must generate the correct schema
+[info] extractValues
+[info] - must extract values from dataframe
+[info] calculateTopPollutionEventsPerWeek
+[info] - must generate the correct schema
+[info] Main
+[info] - must calculate correct aggregations on all data when processing end to end
